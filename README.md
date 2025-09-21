@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Loukas
 
-🎓 CEID student from Cyprus  
+🎓 **Student at CEID, University of Patras, Greece**  
+🌍 From Cyprus
 💻 Aspiring **Full-Stack Developer** (Backend in .NET, Frontend in React)  
 🌱 Currently learning **C#, ASP.NET Core, Entity Framework Core, SQL, and React**  
 🎯 Goal: Become **internship-ready** and land a software development internship by Summer 2026  
